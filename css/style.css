@@ -12,6 +12,9 @@ main {
     display: flex;
     justify-content: center;
 }
+div.rectangle1 {
+    position: absolute;
+}
 div.rectangle2 {
     margin-left: 4.9vw;
     position: relative;
@@ -70,11 +73,6 @@ img.vector1 {
     position: absolute;
     flex-direction: column;
 }
-
-/* section.section3 {
-    box-sizing: border-box;
-    display: inline;
-} */
 div.rectangle4 {
     margin-top: 41vh;
     margin-left: -51.8vw;
@@ -151,4 +149,85 @@ p.texto2 {
     position: absolute;
     font-size:10px;
     text-align: justify;
+}
+pre.yourstyle {
+    margin-top: 72vh;
+    margin-left: -31.4vw;
+    position: relative;
+    font-size: 23px;
+    color: #777777
+}
+img.rectangle11,
+img.rectangle14 {
+    margin-top: 2vh;
+    margin-left: -51.8vw;
+    position: absolute;
+}
+pre.industrial {
+    margin-top: 5.3vh;
+    margin-left: -31.4vw;
+    font-size: 23px;
+    color: #ffffff;
+    position: absolute;
+}
+img.rectangle12,
+img.rectangle15 {
+    margin-top: 13vh;
+    margin-left: -51.8vw;
+    position: absolute;
+}
+pre.modern {
+    margin-top: 16.3vh;
+    margin-left: -30.7vw;
+    font-size: 23px;
+    color: #ffffff;
+    position: absolute;
+}
+img.rectangle13,
+img.rectangle16 {
+    margin-top: 24vh;
+    margin-left: -51.8vw;
+    position: absolute;
+}
+pre.classic {
+    margin-top: 27.4vh;
+    margin-left: -30.4vw;
+    font-size: 23px;
+    color: #ffffff;
+    position: absolute;
+}
+img.rectangle8 {
+    margin-top: 115vh;
+    margin-left: -55.2vw;
+    position: relative;
+}
+img.image1 {
+    margin-top: 119.6vh;
+    margin-left: -51.2vw;
+    position: absolute;
+}
+pre.endContato {
+    padding-left: -10vw;
+    margin-top: -23vh;
+    margin-left: -21.5vw;
+    margin-right: -20vw;
+    position: absolute;
+    font-size:12px;
+    text-align: justify;
+    color: #ffffff
+}
+img.vectorI {
+    margin-top: -8vh;
+    margin-left: -18.1vw;
+    position: absolute;
+}
+img.vectorF {
+    margin-top: -8vh;
+    margin-left: -15.2vw;
+    position: absolute;
+}
+img.vectorW {
+    margin-top: -8vh;
+    margin-left: -12.2vw;
+    position: absolute;
 }
