@@ -1,0 +1,234 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ropa+Sans&display=swap');
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Ropa Sans';
+    box-sizing: border-box;
+}
+main {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+div.rectangle1 {
+    padding: 0% 0% 0% 5.7%;
+    position: absolute;
+} 
+div.rectangle2 {
+    margin-left: 4.9vw;
+    position: relative;
+}
+div.logo {
+    margin-top: -6.5vh;
+    margin-left: 9vw;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    color: #777777;
+    font-size: 20px;
+}
+div.fraseDeEfeito {
+    margin-top: -5.9vh;
+    margin-left: 14vw;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    color: #AAAAAA;
+    font-size: 6.2px;
+}
+div.vector {
+    margin-top: -2vh;
+    margin-left: 55.2vw;
+    position: relative;
+    flex-direction: column;
+}
+div.rectangle3 {
+    margin-top: 9vh;
+    margin-left: -51.8vw;
+    position: relative;
+    flex-direction: column;
+}
+div.ellipse1 {
+    margin-top: -17.6vh;
+    margin-left: -50.8vw;
+    position: relative;
+    flex-direction: column;
+}
+img.vector0 {
+    margin-top: 1.3vh;
+    margin-left: -2vw;
+    position: absolute;
+    flex-direction: column;
+}
+div.ellipse2 {
+    margin-top: -4.8vh;
+    margin-left: -8.3vw;
+    position: absolute;
+    flex-direction: column;
+}
+img.vector1 {
+    margin-top: 1.3vh;
+    margin-left: -1.7vw;
+    position: absolute;
+    flex-direction: column;
+}
+div.rectangle4 {
+    margin-top: 41vh;
+    margin-left: -51.8vw;
+    position: relative;
+    flex-direction: column;
+}
+img.rectangle6 {
+    margin-left: -20vw;
+    position: absolute;
+    flex-direction: column;
+}
+pre.valor1 {
+    margin-top: -11.2vh;
+    margin-left: 1vw;
+    position: relative;
+    color: #777777;
+    font-size: 25px;
+}
+img.rectangle9 {
+    margin-top: -2.8vh;
+    margin-left: 14.5vw;
+    position: absolute;
+}
+pre.new {
+    margin-top: -2.8vh;
+    margin-left: 15.3vw;
+    position: absolute;
+    color: #ffffff;
+    font-size: 20px;
+}
+p.texto1 {
+    padding-right: 33vw;
+    margin-top: 1vh;
+    margin-left: 1vw;
+    position: absolute;
+    font-size:10px;
+    text-align: justify;
+}
+div.rectangle5 {
+    margin-top: -20vh;
+    margin-left: -24.3vw;
+    position: absolute;
+    flex-direction: column;
+}
+img.rectangle7 {
+    margin-left: -20vw;
+    position: absolute;
+    flex-direction: column;
+}
+pre.valor2 {
+    margin-top: -11.2vh;
+    margin-left: 1vw;
+    position: relative;
+    color: #777777;
+    font-size: 25px;
+}
+img.rectangle10 {
+    margin-top: -2.8vh;
+    margin-left: 14.5vw;
+    position: absolute;
+}
+pre.sale {
+    margin-top: -2.8vh;
+    margin-left: 15.3vw;
+    position: absolute;
+    color: #ffffff;
+    font-size: 20px;
+}
+p.texto2 {
+    padding-left: 3.6vw;
+    margin-top: 1vh;
+    margin-left: -2.5vw;
+    margin-right: 1vw;
+    position: absolute;
+    font-size:10px;
+    text-align: justify;
+}
+pre.yourstyle {
+    margin-top: 72vh;
+    margin-left: -31.4vw;
+    position: relative;
+    font-size: 23px;
+    color: #777777
+}
+img.rectangle11,
+img.rectangle14 {
+    margin-top: 2vh;
+    margin-left: -51.8vw;
+    position: absolute;
+}
+pre.industrial {
+    margin-top: 5.3vh;
+    margin-left: -31.4vw;
+    font-size: 23px;
+    color: #ffffff;
+    position: absolute;
+}
+img.rectangle12,
+img.rectangle15 {
+    margin-top: 13vh;
+    margin-left: -51.8vw;
+    position: absolute;
+}
+pre.modern {
+    margin-top: 16.3vh;
+    margin-left: -30.7vw;
+    font-size: 23px;
+    color: #ffffff;
+    position: absolute;
+}
+img.rectangle13,
+img.rectangle16 {
+    margin-top: 24vh;
+    margin-left: -51.8vw;
+    position: absolute;
+}
+pre.classic {
+    margin-top: 27.4vh;
+    margin-left: -30.4vw;
+    font-size: 23px;
+    color: #ffffff;
+    position: absolute;
+}
+img.rectangle8 {
+    margin-top: 115vh;
+    margin-left: -55.2vw;
+    position: relative;
+}
+img.image1 {
+    margin-top: 119.6vh;
+    margin-left: -51.2vw;
+    position: absolute;
+}
+pre.endContato {
+    padding-left: -10vw;
+    margin-top: -23vh;
+    margin-left: -21.5vw;
+    margin-right: -20vw;
+    position: absolute;
+    font-size:12px;
+    text-align: justify;
+    color: #ffffff
+}
+img.vectorI {
+    margin-top: -8vh;
+    margin-left: -18.1vw;
+    position: absolute;
+}
+img.vectorF {
+    margin-top: -8vh;
+    margin-left: -15.2vw;
+    position: absolute;
+}
+img.vectorW {
+    margin-top: -8vh;
+    margin-left: -12.2vw;
+    position: absolute;
+}
